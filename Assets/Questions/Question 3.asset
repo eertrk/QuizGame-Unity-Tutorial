@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb6252cea58a244408d8239eaabdd5bc, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Enter new question text here
-  corretIndex: 0
+  question: "Case blo\u011Funu sonland\u0131rmak i\xE7in hangi anahtar kelime kullan\u0131l\u0131r?"
+  answer:
+  - default
+  - goto
+  - return
+  - break
+  corretIndex: 3
